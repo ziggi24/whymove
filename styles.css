@@ -1,0 +1,147 @@
+:root {
+    --bg: #0f0f10;
+    --fg: #f4f6f8;
+    --muted: #a9b0b8;
+    --accent: #e94f37;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+html,
+body {
+    height: 100%;
+}
+
+body {
+    margin: 0;
+    font-family: Inter, system-ui, -apple-system, Segoe UI, Roboto, Helvetica,
+        Arial, "Apple Color Emoji", "Segoe UI Emoji";
+    background: var(--bg);
+    color: var(--fg);
+    display: grid;
+    grid-template-rows: auto 1fr auto;
+    min-height: 100svh;
+}
+
+.site-header {
+    position: sticky;
+    top: 0;
+    background: rgba(15, 15, 16, 0.9);
+    backdrop-filter: saturate(1.2) blur(8px);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.06);
+    z-index: 10;
+}
+
+.top-nav {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 56px;
+    padding: 0 16px;
+}
+
+.brand {
+    font-weight: 600;
+    font-size: 18px;
+    letter-spacing: 0.2px;
+}
+
+.site-main {
+    display: grid;
+    place-items: center;
+    padding: 12px;
+}
+
+.carousel {
+    width: 100%;
+    max-width: 1000px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.image-stage {
+    position: relative;
+    width: 100%;
+    aspect-ratio: 4 / 5; /* mobile-first portrait friendly; will adapt */
+    background: transparent;
+    border-radius: 0;
+    overflow: hidden;
+    border: none;
+}
+
+.photo {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    background: transparent;
+}
+
+.controls {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 12px;
+}
+
+.nav-btn {
+    appearance: none;
+    border: none;
+    width: 60px;
+    height: 60px;
+    border-radius: 999px;
+    display: grid;
+    place-items: center;
+    color: var(--fg);
+    background: rgba(255, 255, 255, 0.08);
+    transition: transform 120ms ease, background 120ms ease, opacity 120ms ease;
+}
+
+.nav-btn span {
+    font-size: 22px;
+    line-height: 1;
+}
+
+.nav-btn:active {
+    transform: scale(0.96);
+}
+.nav-btn:hover {
+    background: rgba(255, 255, 255, 0.14);
+}
+.nav-btn:disabled {
+    opacity: 0.6;
+}
+
+.site-footer {
+    text-align: center;
+    color: var(--muted);
+    padding: 14px 12px 18px;
+    font-size: 14px;
+    border-top: 1px solid rgba(255, 255, 255, 0.06);
+}
+
+@media (min-width: 768px) {
+    .top-nav {
+        height: 64px;
+    }
+    .brand {
+        font-size: 20px;
+    }
+    .carousel {
+        gap: 14px;
+    }
+    .nav-btn {
+        width: 68px;
+        height: 68px;
+    }
+    .nav-btn span {
+        font-size: 26px;
+    }
+    .image-stage {
+        aspect-ratio: 16 / 10;
+    }
+}
