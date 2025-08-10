@@ -7,12 +7,16 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link rel="stylesheet" href="./styles.css" />
   </head>
   <body>
     <header class="site-header">
       <nav class="top-nav" aria-label="Main">
-        <div class="brand">Why move to Berlin?</div>
+        <a class="brand" href="./index.html">Why move to Berlin?</a>
+        <div class="nav-items">
+          <a class="nav-link" href="./scenarios.html">Scenarios</a>
+        </div>
       </nav>
     </header>
 
@@ -23,10 +27,10 @@
         </div>
         <div class="controls">
           <button class="nav-btn prev" aria-label="Previous" title="Previous (←)">
-            <span aria-hidden="true">&#10094;</span>
+            <i class="fa-solid fa-chevron-left" aria-hidden="true"></i>
           </button>
           <button class="nav-btn next" aria-label="Next" title="Next (→)">
-            <span aria-hidden="true">&#10095;</span>
+            <i class="fa-solid fa-chevron-right" aria-hidden="true"></i>
           </button>
         </div>
       </section>

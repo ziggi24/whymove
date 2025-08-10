@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>Scenarios — Why move to Berlin?</title>
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <nav class="top-nav" aria-label="Main">
+        <a class="brand" href="./index.html">Why move to Berlin?</a>
+        <div class="nav-items">
+          <a class="nav-link active" href="./scenarios.html" aria-current="page">Scenarios</a>
+        </div>
+      </nav>
+    </header>
+
+    <main class="site-main">
+      <section class="scenario-stage" aria-label="Scenarios">
+        <article id="scenario-card" class="scenario-card" aria-live="polite"></article>
+
+        <div class="controls">
+          <button class="nav-btn prev" aria-label="Previous scenario" title="Previous (←)"><i class="fa-solid fa-chevron-left" aria-hidden="true"></i></button>
+          <button class="nav-btn list" aria-label="Open scenario list" title="Open list (L)"><i class="fa-solid fa-list" aria-hidden="true"></i></button>
+          <button class="nav-btn next" aria-label="Next scenario" title="Next (→)"><i class="fa-solid fa-chevron-right" aria-hidden="true"></i></button>
+        </div>
+      </section>
+    </main>
+
+    <div id="scenario-overlay" class="overlay" hidden>
+      <div class="overlay-content" role="dialog" aria-modal="true" aria-labelledby="overlay-title">
+        <div class="overlay-header">
+          <h2 id="overlay-title">Select a Scenario</h2>
+          <button id="overlay-close" class="close-btn" aria-label="Close">&times;</button>
+        </div>
+        <ul id="scenario-list" class="scenario-list"></ul>
+      </div>
+    </div>
+
+    <footer class="site-footer">I love you</footer>
+
+    <script src="./scenarios.js" defer></script>
+  </body>
+  </html>
+
+
