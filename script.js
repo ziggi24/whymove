@@ -7,7 +7,6 @@
   const images = [
     "./Img/Screenshot 2025-08-10 at 11.58.32.png",
     "./Img/Screenshot 2025-08-10 at 11.59.18.png",
-    "./Img/Screenshot 2025-08-10 at 11.59.34.png",
     "./Img/Screenshot 2025-08-10 at 12.01.10.png",
     "./Img/Screenshot 2025-08-10 at 12.03.14.png",
     "./Img/Screenshot 2025-08-10 at 12.16.11.png",
