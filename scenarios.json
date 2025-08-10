@@ -9,8 +9,8 @@
           "scenarios": [
             {
               "scenarioNumber": 1,
-              "title": "The Kreuzberg Creatives (Marriage Path)",
-              "description": "This scenario assumes a pre-move marriage in the US, allowing Onyx to apply for a Family Reunion Visa, granting them immediate work rights.",
+              "title": "The Kreuzberg Option (Civil Union or Marriage Path)",
+              "description": "This scenario assumes a pre-move Civil Union or Marriage in the US, allowing Onyx to apply for a Family Reunion Visa, granting them immediate stay and work rights.",
               "timeline": [
                 {
                   "timeframe": "Before Leaving",
@@ -34,14 +34,14 @@
                 },
                 {
                   "timeframe": "The End of the First Year",
-                  "events": "Berlin feels like home for Basil and Onyx. Onyx has a steady stream of freelance work and is considering applying to an art program. The cats are fully adjusted and loving the new environment. Their relationship has been strengthened by the shared challenge and success of building a new life together from the ground up."
+                  "events": "Berlin starts to feel a little more like home for Basil and Onyx. Onyx has a steady stream of freelance work and is considering applying to an art program. The cats are fully adjusted and loving the new environment. Their relationship has been strengthened by the shared challenge and success of building a new life together from the ground up."
                 }
               ]
             },
             {
               "scenarioNumber": 2,
-              "title": "The Prenzlauer Berg Professionals (Marriage Path)",
-              "description": "This path also assumes a pre-move marriage but follows a more structured, less chaotic integration strategy.",
+              "title": "The Prenzlauer Berg Option (Civil Union or Marriage Path)",
+              "description": "This path also assumes a pre-move Civil Union or Marriage",
               "timeline": [
                 {
                   "timeframe": "Before Leaving",
@@ -57,11 +57,11 @@
                 },
                 {
                   "timeframe": "The End of the Third Month",
-                  "events": "Basil and Onyx move into a modern two-bedroom apartment near Kollwitzplatz. Onyx is halfway through their language course and has made friends with classmates from around the world. Basil and Onyx's social life is primarily with Basil's work colleagues and a few neighbors."
+                  "events": "Basil and Onyx move into a modern two-bedroom duplex near Kollwitzplatz. Onyx is halfway through their language course and has made friends with classmates from around the world. Basil and Onyx's social life is primarily with Basil's work colleagues and a few neighbors."
                 },
                 {
                   "timeframe": "The End of the Sixth Month",
-                  "events": "Onyx completes their language course with a B1 certificate. With improved German and full work rights, they begin searching for a part time job. Basil and Onyx join a gym together, like a local Holmes Place, to meet people outside of work and school. They visit the queer-friendly Marietta Bar for quiet drinks."
+                  "events": "Onyx completes their language course with a B1 certificate. With improved German and full work rights, they begin searching for a part time job. Basil and Onyx join a gym together, like a local Holmes Place, to meet people outside of work and school. They visit the queer-friendly Marietta Bar for social events."
                 },
                 {
                   "timeframe": "The End of the First Year",
@@ -71,8 +71,8 @@
             },
             {
               "scenarioNumber": 3,
-              "title": "The Awful Bureaucracy (Marriage Path)",
-              "description": "This scenario illustrates the impact of external, uncontrollable delays on the moving-together plan.",
+              "title": "The Awful Bureaucracy (Civil Union or Marriage Path)",
+              "description": "This scenario shows the impact of external, uncontrollable delays on the moving-together plan.",
               "timeline": [
                 {
                   "timeframe": "Before Leaving",
@@ -88,7 +88,7 @@
                 },
                 {
                   "timeframe": "The End of the Third Month",
-                  "events": "The apartment hunt is proving exceptionally difficult. The market is competitive, and their income is stretched by the high cost of temporary housing. They face multiple rejections. The strain begins to show on their relationship, with minor disagreements escalating due to underlying stressors."
+                  "events": "The housing hunt is proving exceptionally difficult. The market is competitive, and their income is stretched by the high cost of temporary housing. They face multiple rejections. The strain begins to show on their relationship, with minor disagreements escalating due to underlying stressors."
                 },
                 {
                   "timeframe": "The End of the Sixth Month",
@@ -107,7 +107,7 @@
               "timeline": [
                 {
                   "timeframe": "Before Leaving",
-                  "events": "Onyx enrolls in a one-year intensive German course in Berlin and receives a letter of admission. They open a blocked account and deposit €13,000. As US citizens, Basil and Onyx both plan to apply for their respective residence permits after arrival. They book a two-bedroom temporary flat."
+                  "events": "Onyx enrolls in a one-year intensive German course in Berlin and receives a letter of admission. They open a blocked account and deposit €13,000.  They book a two-bedroom temporary flat in Tempelhof."
                 },
                 {
                   "timeframe": "The First Week",
@@ -119,15 +119,15 @@
                 },
                 {
                   "timeframe": "The End of the Third Month",
-                  "events": "Basil and Onyx are in a permanent apartment. Onyx has a solid routine of class and homework and has found a 15-hour-per-week job at a bookstore. They have a social circle composed entirely of other international students from their class, creating a bit of an 'expat bubble.'"
+                  "events": "Basil and Onyx are in a permanent apartment. Onyx has a solid routine of class and homework and has found a 15-hour-per-week job at a bookstore. They have a social circle mainly composed of other international students from their class and coworkers."
                 },
                 {
                   "timeframe": "The End of the Sixth Month",
-                  "events": "Basil and Onyx have a solid social circle with a diverse group of friends. Onyx is enjoying the city witha stronger grasp of the language and a growing sense of independence. Basil joined a queer-friendly gym and is settling into the new routine."
+                  "events": "Basil and Onyx have a solid social circle with a diverse group of friends. Onyx is enjoying the city witha stronger grasp of the language and a growing sense of independence. Basil joined a local queer-friendly gym and is settling into the new routine."
                 },
                 {
                   "timeframe": "The End of the First Year",
-                  "events": "Onyx successfully completes their course and now has a C1 German certificate, a significant achievement. However, their visa is expiring. They must now transition to a different visa type (e.g., Job Seeker or Student) to remain in Germany, initiating a new round of bureaucracy and uncertainty. The year has been productive for language learning but challenging"
+                  "events": "Onyx successfully completes their course and now has a C1 German certificate, a significant achievement. However, their visa is expiring. They must now transition to a different visa type (e.g., Job Seeker, Family Reunion, or Student) to remain in Germany, initiating a new round of bureaucracy and uncertainty. The year has been productive for language learning but challenging"
                 }
               ]
             },
@@ -138,7 +138,7 @@
               "timeline": [
                 {
                   "timeframe": "Before Leaving",
-                  "events": "Onyx spends two months preparing a strong application package: a professional portfolio, a detailed CV, a financial forecast, and securing two strong letters of intent from German galleries they contacted online. Basil and Onyx both arrive on the 90-day visa waiver."
+                  "events": "Onyx spends two months preparing a strong application package: a professional portfolio, a detailed CV, a financial forecast, and securing two strong letters of intent from German galleries they contacted online. Basil and Onyx both arrive on the 90-day visa waiver. They book a temporary place in Neukölln."
                 },
                 {
                   "timeframe": "The First Week",
@@ -150,7 +150,7 @@
                 },
                 {
                   "timeframe": "The End of the Third Month",
-                  "events": "Basil and Onyx both receive their residence permits. Onyx's freelance visa is granted for two years, giving them a huge sense of accomplishment. They register as a freelancer with the tax office (Finanzamt) and begin taking on paid projects. Basil and Onyx find a long-term apartment in Neukölln, a district known for its creative scene."
+                  "events": "Basil and Onyx both receive their residence permits. Onyx's freelance visa is granted for two years, giving them a huge sense of accomplishment. They register as a freelancer with the tax office (Finanzamt) and begin taking on paid projects. Basil and Onyx find a long-term apartment in Neukölln, a district they've grown to love and is known for its creative scene."
                 },
                 {
                   "timeframe": "The End of the Sixth Month",
@@ -165,11 +165,11 @@
             {
               "scenarioNumber": 6,
               "title": "The Job Seeker's Visa (Independent Path)",
-              "description": "This high-pressure scenario involves Onyx arriving on the 90-day waiver and applying for a Job Seeker Visa. This scenario assumes Onyx wants a full-time more official job.",
+              "description": "This scenario involves Onyx arriving on the 90-day waiver and applying for a Job Seeker Visa. This scenario assumes Onyx wants a full-time more official job.",
               "timeline": [
                 {
                   "timeframe": "Before Leaving",
-                  "events": "Onyx polishes their CV, ensures their university degree is officially recognized, and practices their German to reach a solid B1 level. They research companies in their field in Berlin. Basil and Onyx both arrive together."
+                  "events": "Onyx polishes their CV, ensures their university degree is officially recognized, and practices their German to reach a solid B1 level. They research what they would want to do for work in Berlin. Basil and Onyx both arrive together."
                 },
                 {
                   "timeframe": "The First Week",
@@ -181,11 +181,11 @@
                 },
                 {
                   "timeframe": "The End of the Third Month",
-                  "events": "The job search is a grind. Onyx has had several interviews but no offers yet. The stress affects their home life, as Onyx's mood is tied to the success of their daily applications. Social activities feel like a distraction from their primary goal."
+                  "events": "The job search is a grind. Onyx has had several interviews but no offers yet. The stress affects their home life, and they are starting to feel isolated. "
                 },
                 {
                   "timeframe": "The End of the Sixth Month",
-                  "events": "With two months left on their visa, Onyx receives a job offer from a tech startup. The relief is enormous. They immediately apply to convert their Job Seeker Visa into a full work-based residence permit."
+                  "events": "With two months left on their visa, Onyx receives a job offer from a local startup. The relief is enormous. They immediately apply to convert their Job Seeker Visa into a full work-based residence permit."
                 },
                 {
                   "timeframe": "The End of the First Year",
@@ -196,7 +196,7 @@
             {
               "scenarioNumber": 7,
               "title": "The Smooth Start",
-              "description": "This scenario models an ideal, low-friction bureaucratic and logistical experience.",
+              "description": "This scenario is one version of an ideal, low-friction bureaucratic and logistical experience.",
               "timeline": [
                 {
                   "timeframe": "Before Leaving",
@@ -212,7 +212,7 @@
                 },
                 {
                   "timeframe": "The End of the Third Month",
-                  "events": "They are fully moved into their new home. The cats are happy. Onyx has found a fulfilling part-time job. They feel completely on top of the administrative side of the move."
+                  "events": "They are fully moved into their new home. The cats are happy. Onyx has found a fulfilling part-time job teaching English. They feel completely on top of the administrative side of the move."
                 },
                 {
                   "timeframe": "The End of the Sixth Month",
@@ -231,7 +231,7 @@
               "timeline": [
                 {
                   "timeframe": "Before Leaving",
-                  "events": "Basil and Onyx book a temporary flat that looks great online but turns out to be noisy and poorly located. Their flight is delayed, and the cats are highly stressed upon arrival."
+                  "events": "Basil and Onyx book a temporary place in Neukölln that looks great online but turns out to be noisy and poorly located. Their flight is delayed, and the cats are highly stressed upon arrival."
                 },
                 {
                   "timeframe": "The First Week",
@@ -243,7 +243,7 @@
                 },
                 {
                   "timeframe": "The End of the Third Month",
-                  "events": "The apartment hunt is a nightmare of scams, mass viewings, and rejections. They are forced to extend their stay in the expensive temporary flat. The constant stress and uncertainty lead to frequent arguments."
+                  "events": "The apartment hunt is all scams, mass viewings, and rejections. They are forced to extend their stay in the expensive temporary flat. The constant stress and uncertainty lead to frequent arguments."
                 },
                 {
                   "timeframe": "The End of the Sixth Month",
@@ -251,7 +251,7 @@
                 },
                 {
                   "timeframe": "The End of the First Year",
-                  "events": "Basil and Onyx are stable, but the difficult start has colored their perception of Berlin. They feel like they've been fighting the city since they arrived. They decide to seek couples counseling to process the stress of the move and get back on a positive track."
+                  "events": "Basil and Onyx are stable, but the difficult start has changed their perception of Berlin. They feel like they've been fighting the city since they arrived. They decide to seek couples counseling to process the stress of the move, its impact on their relationship, and get back on a positive track."
                 }
               ]
             },
@@ -266,15 +266,15 @@
                 },
                 {
                   "timeframe": "The First Week",
-                  "events": "After handling the initial Anmeldung, they attend a trial session with EINSTEIGER e.V., the queer wrestling club in Neukölln."
+                  "events": "After handling the initial Anmeldung, they go for a hike with TransInterQueer e.V a queer social club in Neukölln."
                 },
                 {
                   "timeframe": "The End of the First Month",
-                  "events": "Basil and Onyx are both official members of the wrestling club and Onyx has joined the queer water polo team organized by Vorspiel. They attend a community mixer hosted by The Berlin Life."
+                  "events": "Basil and Onyx are both official members of TransInterQueer e.V and Onyx has joined the queer water polo team organized by Vorspiel. They attend a community mixer hosted by The Berlin Life."
                 },
                 {
                   "timeframe": "The End of the Third Month",
-                  "events": "Their weeks are structured around work, language classes (for Onyx), and multiple weekly sports practices. They have a rapidly growing social circle of teammates from diverse backgrounds."
+                  "events": "Their weeks are structured around work, language classes, and multiple weekly sports practices. They have a rapidly growing social circle of teammates from diverse backgrounds."
                 },
                 {
                   "timeframe": "The End of the Sixth Month",
@@ -282,22 +282,22 @@
                 },
                 {
                   "timeframe": "The End of the First Year",
-                  "events": "Basil and Onyx's social life in Berlin is richer and more active than it was in Denver. The proactive choice to join established groups has been the single most effective strategy for building a community and making the city feel like home."
+                  "events": "Basil and Onyx's social life in Berlin is richer and more active than it was in Denver. They have a solid group of friends and are exploring the city on the weekends."
                 }
               ]
             },
             {
               "scenarioNumber": 10,
               "title": "The Quiet Couple",
-              "description": "This scenario explores a more insular approach to settling in, focusing on the relationship and home life.",
+              "description": "This scenario explores a less social approach to settling in, focusing on home life.",
               "timeline": [
                 {
                   "timeframe": "Before Leaving",
-                  "events": "Basil and Onyx's focus is entirely on the logistics of the move and finding the perfect apartment. Social planning is not a priority."
+                  "events": "Basil and Onyx's focus is entirely on the logistics of the move and finding the perfect apartment. They discussed feeling overwhelmed by the move and decided to focus on the basics first."
                 },
                 {
                   "timeframe": "The First Week",
-                  "events": "They focus on unpacking, settling the cats, and exploring their immediate neighborhood on foot. They find a favorite local bakery and coffee shop."
+                  "events": "They focus on unpacking, settling the cats, and exploring their immediate neighborhood on foot. They find a favorite local bakery and Boba shop."
                 },
                 {
                   "timeframe": "The End of the First Month",
@@ -313,7 +313,7 @@
                 },
                 {
                   "timeframe": "The End of the First Year",
-                  "events": "Their bond as a couple is incredibly strong, but Onyx's integration into Berlin feels incomplete. They realize the need to branch out and decide to enroll in a shared activity in the new year, like a dance class or a language tandem program, to build a wider community together."
+                  "events": "Their bond as a couple is strong, and they enjoy the city, but Onyx's integration into Berlin feels incomplete. They realize the need to branch out and decide to enroll in a shared activity in the new year, like a fitness class or a language tandem program, to build a wider community together."
                 }
               ]
             }
@@ -327,15 +327,15 @@
             {
               "scenarioNumber": 11,
               "title": "The Perfect Prep (3-Month Head Start)",
-              "description": "Basil moves first to smooth the path for Onyx's arrival.",
+              "description": "Basil moves first to smooth the way for Onyx's arrival.",
               "timeline": [
                 {
                   "timeframe": "Before Leaving",
-                  "events": "Basil and Onyx plan for a three-month separation. Onyx will apply for their visa (assuming marriage) once Basil has a permanent address and rental contract in Berlin."
+                  "events": "Basil and Onyx plan for a three-month separation. Onyx will apply for their Family Reunion visa (assuming Civil Union or Marriage) once Basil has a permanent address and rental contract in Berlin."
                 },
                 {
                   "timeframe": "The First Week ",
-                  "events": "Basil arrives and moves into a temporary flat. Basil completes their Anmeldung, opens a bank account, and begins the apartment hunt. Basil also transports the cats, handling their initial adjustment period."
+                  "events": "Basil arrives and moves into a temporary place in Schöneberg. Basil completes their Anmeldung, opens a bank account, and begins the apartment hunt. Basil also transports the cats, handling their initial adjustment period."
                 },
                 {
                   "timeframe": "The End of the First Month ",
@@ -343,7 +343,7 @@
                 },
                 {
                   "timeframe": "The End of the Third Month",
-                  "events": "The apartment is fully furnished and feels like a home. Basil has established their own HRT care, settled the cats, and has a comfortable routine. Basil sends Onyx the signed rental contract and their registration certificate for Onyx's visa application. Onyx arrives a few weeks later to a fully prepared home, bypassing all the initial stress of apartment hunting and bureaucracy."
+                  "events": "The apartment is fully furnished and starts to feel like a home. Basil has established their own HRT care, settled the cats, and has a comfortable routine. Basil sends Onyx the signed rental contract and their registration certificate for Onyx's visa application. Onyx arrives a few weeks later to a fully prepared home, bypassing all the initial stress of apartment hunting and bureaucracy."
                 },
                 {
                   "timeframe": "The End of the Sixth Month (Together)",
@@ -358,7 +358,7 @@
             {
               "scenarioNumber": 12,
               "title": "The Long-Distance Strain (3-Month Head Start)",
-              "description": "This scenario highlights the emotional challenges of the separation period.",
+              "description": "This scenario explores the emotional challenges of the separation period.",
               "timeline": [
                 {
                   "timeframe": "Before Leaving",
@@ -366,15 +366,15 @@
                 },
                 {
                   "timeframe": "The First Week ",
-                  "events": "Basil is overwhelmed by the combination of starting a new job, navigating bureaucracy alone, and intense loneliness. The eight-hour time difference makes spontaneous communication difficult."
+                  "events": "Basil is overwhelmed by the combination of starting a new job, navigating bureaucracy alone, and loneliness. The eight-hour time difference makes spontaneous communication difficult."
                 },
                 {
                   "timeframe": "The End of the First Month ",
-                  "events": "Basil is making progress but feels disconnected from Onyx. Basil is having new experiences Onyx can't share, and Onyx is dealing with the stress of visa prep and packing up their shared life in Denver. A sense of guilt and distance begins to creep in."
+                  "events": "Basil is making progress but feels disconnected from Onyx. Basil is having new experiences Onyx can't share, and Onyx is dealing with the stress of visa prep and packing up their shared life in Denver. A sense of guilt and distance begins to creep in for both."
                 },
                 {
                   "timeframe": "The End of the Third Month",
-                  "events": "Basil has secured an apartment, but the process was isolating. Onyx arrives, and the reunion is joyful but also awkward. They have to relearn how to share space and make decisions together after three months of independence."
+                  "events": "Basil has secured an apartment, but the process was difficult. Onyx arrives, and the reunion is joyful but also a little awkward. They have to relearn how to share space and make decisions together after three months of independence."
                 },
                 {
                   "timeframe": "The End of the Sixth Month (Together)",
@@ -525,7 +525,7 @@
                 },
                 {
                   "timeframe": "The End of the First Year",
-                  "events": "At the end of the year, Basil and Onyx both agree without hesitation that they want to close the distance. Onyx's fears about the move have been replaced by excitement and a clear desire to be with Basil. Onyx begins the visa process (marriage path)."
+                  "events": "At the end of the year, Basil and Onyx both agree without hesitation that they want to close the distance. Onyx's fears about the move have been replaced by excitement and a clear desire to be with Basil. Onyx begins the visa process (Civil Union or Marriage path)."
                 },
                 {
                   "timeframe": "Onyx's Arrival (Month 15)",
