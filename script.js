@@ -33,8 +33,8 @@
 
   if (!imgEl || !prevBtn || !nextBtn) return;
 
-  // Pick a random starting index on load
-  let index = Math.floor(Math.random() * images.length);
+  // Start at the first image; deterministic order on every load
+  let index = 0;
 
   function showCurrent() {
     const src = images[index];
