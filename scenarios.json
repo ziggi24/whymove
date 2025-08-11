@@ -357,7 +357,7 @@
             },
             {
               "scenarioNumber": 12,
-              "title": "The Long-Distance Strain (3-Month Head Start)",
+              "title": "The Long-Distance Difficulty (3-Month Head Start)",
               "description": "This scenario explores the emotional challenges of the separation period.",
               "timeline": [
                 {
@@ -419,7 +419,7 @@
             },
             {
               "scenarioNumber": 14,
-              "title": "The Established Host (6-Month Foundation)",
+              "title": "Established Basil (6-Month Foundation)",
               "description": "A longer separation allows Basil to become a fully integrated guide for Onyx.",
               "timeline": [
                 {
@@ -428,7 +428,7 @@
                 },
                 {
                   "timeframe": "The First Three Months ",
-                  "events": "Basil completes all bureaucratic hurdles and finds a permanent apartment."
+                  "events": "Basil completes all bureaucratic hurdles and finds a permanent apartment. Basil has a solid group of friends from work and a local sports club TransInterQueer e.V. Basil is learning the city well and is finding their favorite restaurants, parks, and queer hangouts."
                 },
                 {
                   "timeframe": "The End of the Sixth Month ",
@@ -451,7 +451,7 @@
             {
               "scenarioNumber": 15,
               "title": "Drifting Apart (6-Month Foundation)",
-              "description": "This scenario explores the risk of personal divergence during a longer separation.",
+              "description": "This scenario explores the risk of growing apart during a longer separation.",
               "timeline": [
                 {
                   "timeframe": "Before Leaving",
@@ -486,11 +486,11 @@
               "timeline": [
                 {
                   "timeframe": "Before Leaving",
-                  "events": "Basil and Onyx decide Onyx will apply for a Language Course Visa, which requires a blocked account. They plan a six-month separation to allow Basil to save money from their higher German salary to fund it."
+                  "events": "Basil and Onyx decide Onyx will apply for a Language Course Visa, which requires a blocked account. They plan a six-month separation to allow Basil to save money to fund it."
                 },
                 {
                   "timeframe": "The First Three Months ",
-                  "events": "Basil lives frugally in Berlin, putting a significant portion of their salary into a savings account."
+                  "events": "Basil lives frugally in Berlin, putting a significant portion of their salary into a savings account. Basil is learning the city well and is finding their favorite restaurants, parks, and queer hangouts."
                 },
                 {
                   "timeframe": "The End of the Sixth Month ",
@@ -513,7 +513,7 @@
             {
               "scenarioNumber": 17,
               "title": "The Recommitment (One-Year Test)",
-              "description": "A year-long long-distance relationship serves as the ultimate test of the relationship's strength.",
+              "description": "A year-long long-distance relationship",
               "timeline": [
                 {
                   "timeframe": "Before Leaving",
@@ -548,7 +548,7 @@
                 },
                 {
                   "timeframe": "The First Year (Apart)",
-                  "events": "The visits are pleasant, but the time apart reveals fundamental incompatibilities. Basil loves the fast-paced, urban, European lifestyle. Onyx discovers they value the slower pace, proximity to nature, and cultural familiarity of Denver more than they realized. The long-distance relationship is maintained, but a sense of diverging life goals becomes clear."
+                  "events": "The visits are pleasant, but the time apart reveals fundamental incompatibilities. Basil loves the fast-paced, urban, European lifestyle. Onyx discovers they crave the slower pace, proximity to mountains, and cultural familiarity of US cities more than they realized. The long-distance relationship is maintained, but a sense of growing apart in life goals becomes clear."
                 },
                 {
                   "timeframe": "The End of the First Year",
@@ -556,7 +556,7 @@
                 },
                 {
                   "timeframe": "The End of the Second Year ",
-                  "events": "Basil is thriving in their life in Berlin. Basil and their ex-partner remain good friends, supporting each other from afar. The year-long test, while leading to a breakup, prevented a much more painful and complicated breakup after a stressful international move."
+                  "events": "Basil is thriving in their life in Berlin. Basil and Onyx remain good friends, supporting each other from afar. The year-long test, while leading to a breakup, prevented a much more painful and complicated breakup after a stressful international move."
                 }
               ]
             },
@@ -583,7 +583,7 @@
                 },
                 {
                   "timeframe": "Onyx's Arrival (Month 15)",
-                  "events": "Onyx arrives on a Student Visa, with their own schedule, their own academic community, and their own purpose. This completely reframes their move from one of dependency to one of self-actualization."
+                  "events": "Onyx arrives on a Student Visa, with their own schedule, their own academic community, and their own purpose. They are excited to start their new life in Berlin. They are also excited to be with Basil."
                 }
               ]
             },
@@ -598,15 +598,15 @@
                 },
                 {
                   "timeframe": "The First Six Months ",
-                  "events": "Basil establishes their life in Berlin, finding an apartment and setting up their routines."
+                  "events": "Basil establishes their life in Berlin, finding an apartment and setting up their routines. Basil is learning the city well and is finding their favorite restaurants, parks, and queer hangouts. Basil is also making friends with other expats and locals."
                 },
                 {
                   "timeframe": "The Trial Visit (Months 7-8)",
-                  "events": "Onyx arrives for their two-month stay. Basil encourages them to experience the city as a resident, not a tourist. Onyx navigates public transport alone, goes grocery shopping, and attends some expat meetups."
+                  "events": "Onyx arrives for their two-month stay. Basil encourages them to experience the city as a resident, not a tourist. Onyx navigates public transport alone, goes grocery shopping, and attends some meetups."
                 },
                 {
                   "timeframe": "The Discovery",
-                  "events": "Onyx finds the Berlin culture to be more abrasive and less friendly than they are used to (the infamous Berliner Schnauze). They struggle with the grey, overcast winter weather and deeply miss the sunshine and easy access to the mountains of Colorado."
+                  "events": "Onyx finds the Berlin culture to be more abrasive and less friendly than they are used to. They struggle with the grey, overcast winter weather and deeply miss the sunshine and easy access to the mountains of Colorado."
                 },
                 {
                   "timeframe": "The End of the Trial Visit",
@@ -636,7 +636,7 @@
                 },
                 {
                   "timeframe": "The First Six Months",
-                  "events": "Basil establishes their life in Berlin. They create a shared budget specifically for travel and plan their visits for the entire year. They commit to visiting each other every three months, alternating between Denver and Berlin."
+                  "events": "Basil establishes their life in Berlin. They create a shared budget specifically for travel and plan their visits for the entire year. They commit to visiting each other every three months, alternating between the US and Europe."
                 },
                 {
                   "timeframe": "The End of the First Year",
@@ -655,19 +655,19 @@
               "timeline": [
                 {
                   "timeframe": "Before Leaving",
-                  "events": "Basil moves to Berlin alone, agreeing that the standard visitor/host dynamic can create an imbalance in a long-distance relationship."
+                  "events": "Basil moves to Berlin alone, and Onyx agrees to visit every three months. They agree to meet in a neutral third location to avoid the potential disruption of visiting each other's home cities."
                 },
                 {
                   "timeframe": "The First Six Months",
-                  "events": "Instead of Onyx visiting Berlin, they both save money and plan a one-week trip to a neutral, third location. They meet in Sardinia, Italy for a shared vacation."
+                  "events": "Instead of Onyx visiting Berlin, they both save money and plan a one-week trip to a neutral, third location. They meet in Sardinia, Italy for a shared vacation. They are both excited to be together and to explore a new place."
                 },
                 {
                   "timeframe": "The End of the First Year",
-                  "events": "They have met up twice for vacations, once in Italy and once in Iceland. This approach allows them to be on equal footing, exploring a new place together and creating unique shared memories that belong to their relationship, not just to one person's home city."
+                  "events": "They have met up twice for vacations, once in Italy and once in Iceland. This approach allows them to be on equal footing, exploring a new place together and creating unique shared memories that belong to their relationship, not just to one person's home city. "
                 },
                 {
                   "timeframe": "The End of the Second Year",
-                  "events": "This pattern continues. While they see each other less frequently than in the high-flyer scenario, the quality of their time together is exceptionally high. The relationship becomes defined by these shared adventures. This may be a sustainable long-term model for them, or it may serve as a bridge until Onyx feels ready to consider moving."
+                  "events": "This pattern continues. While they see each other less frequently than in the high-flyer scenario, the quality of their time together is exceptionally high. The relationship becomes defined by these shared adventures. This may be a sustainable long-term model for them, or it may serve as a bridge until they consider moving somewhere together."
                 }
               ]
             },
@@ -682,7 +682,7 @@
                 },
                 {
                   "timeframe": "The First Six Months",
-                  "events": "The initial effort is strong, with daily calls. However, the 8-hour time difference is a constant logistical challenge. Basil's evenings, when they are free to talk, are Onyx's middle of the workday. Basil's mornings are Onyx's late night. Calls become shorter and less frequent."
+                  "events": "The initial effort is strong, with daily calls. However, the 8-hour time difference is a constant logistical challenge. Basil's evenings, when they are free to talk, are Onyx's middle of the day. Basil's mornings are Onyx's late night. Calls become shorter and less frequent."
                 },
                 {
                   "timeframe": "The End of the First Year",
@@ -697,7 +697,7 @@
             {
               "scenarioNumber": 24,
               "title": "The Successful LDR",
-              "description": "A long-distance relationship that thrives, ultimately leading to reunification.",
+              "description": "A long-distance relationship that thrives, ultimately leading to reunion.",
               "timeline": [
                 {
                   "timeframe": "Before Leaving",
@@ -705,7 +705,7 @@
                 },
                 {
                   "timeframe": "The First Year",
-                  "events": "They find that the distance enhances their relationship. It fosters independence and forces them to communicate more deliberately and openly. Their time together during visits is precious and focused. Onyx, seeing Basil thrive and hearing their positive stories, begins to see Berlin through Basil's eyes. Onyx's hesitation starts to wane."
+                  "events": "They find that the distance enhances their relationship in some ways. It fosters independence and forces them to communicate more deliberately and openly. Their time together during visits is precious and focused. Onyx, seeing Basil thrive and hearing their positive stories, begins to see Berlin through Basil's eyes. Onyx's hesitation starts to wane."
                 },
                 {
                   "timeframe": "The End of the Second Year",
@@ -720,7 +720,7 @@
             {
               "scenarioNumber": 25,
               "title": "The Trial Run Success",
-              "description": "Basil and Onyx strategically use the 90-day visa-free period to de-risk the move for a hesitant Onyx.",
+              "description": "Basil and Onyx strategically use the 90-day visa-free period to de-risk the move for Onyx.",
               "timeline": [
                 {
                   "timeframe": "Before Leaving",
@@ -732,7 +732,7 @@
                 },
                 {
                   "timeframe": "The Trial Run (Months 5-6)",
-                  "events": "Onyx arrives. They enroll in a one-month, non-intensive German class. They are tasked with navigating the city on their own, finding queer community events from Basil's list, and establishing a daily routine. They experience the good and the bad—the vibrant culture, the efficient transit, but also the grey weather and the bureaucracy."
+                  "events": "Onyx arrives. They enroll in a one-month, non-intensive German class. They are tasked with navigating the city on their own, finding queer community events from Basil's list, and establishing a daily routine. They experience the good and the bad, the vibrant culture, the many green spaces, but also the grey weather and the bureaucracy."
                 },
                 {
                   "timeframe": "The Verdict",
@@ -763,7 +763,7 @@
                 },
                 {
                   "timeframe": "The Verdict",
-                  "events": "Despite the effort, it doesn't click. Onyx feels isolated by the language barrier, finds the social dynamics difficult to navigate, and confirms that they are a person who needs more sunshine and mountains than Berlin can offer. They feel a deep sense of relief at the thought of returning to Denver."
+                  "events": "Despite the effort, it doesn't click. Onyx feels isolated by the language barrier, finds the social dynamics difficult to navigate, and confirms that they are a person who needs more sunshine and mountains than Berlin can offer. They feel a deep sense of relief at the thought of returning to somewhere in the US."
                 },
                 {
                   "timeframe": "The End of the First Year",
@@ -778,7 +778,7 @@
               "timeline": [
                 {
                   "timeframe": "Before Leaving",
-                  "events": "As Basil and Onyx work through moving logistics, discussing the visa options, the financial commitments, and the different lifestyle scenarios, it becomes clear that their core life goals are not aligned. Basil wants the international, fast-paced urban experience Berlin offers. Onyx realizes they want a quieter life, closer to family and the outdoors, which Denver provides."
+                  "events": "As Basil and Onyx work through moving logistics, discussing the visa options, the financial commitments, and the different lifestyle scenarios, it becomes clear that their core life goals are no longer aligned. Basil wants the international, cultural and urban experience Berlin offers. Onyx realizes they want a quieter life, closer to the outdoors, which Denver provides."
                 },
                 {
                   "timeframe": "The Decision",
