@@ -11,7 +11,7 @@
       .replace(/'/g, '&#039;');
   }
 
-  fetch('./videos.json')
+  fetch('./data/videos.json')
     .then((r) => r.json())
     .then((videos) => {
       listEl.innerHTML = '';

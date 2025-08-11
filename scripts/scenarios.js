@@ -120,7 +120,7 @@
   });
 
   // Load scenarios JSON and flatten all parts into a single array of scenarios
-  fetch("./scenarios.json")
+  fetch("./data/scenarios.json")
     .then((r) => r.json())
     .then((data) => {
       scenarios = data?.relocationPlan?.parts || [];
