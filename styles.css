@@ -52,18 +52,55 @@ body {
 }
 
 .nav-items {
-    display: flex;
-    align-items: center;
-    gap: 12px;
+    display: none;
 }
 .nav-link {
-    color: var(--muted);
-    text-decoration: none;
-    font-weight: 500;
+    display: none;
 }
-.nav-link:hover,
-.nav-link.active {
+.menu-toggle {
+    appearance: none;
+    border: none;
+    background: transparent;
     color: var(--fg);
+    width: 40px;
+    height: 40px;
+    border-radius: 8px;
+    display: grid;
+    place-items: center;
+}
+.menu-toggle:active {
+    transform: scale(0.96);
+}
+.menu-panel {
+    position: absolute;
+    right: 12px;
+    top: 56px;
+    background: #141516;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 10px;
+    padding: 8px;
+    display: grid;
+    gap: 4px;
+    width: 200px;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.4);
+}
+.menu-panel[hidden] {
+    display: none !important;
+}
+.menu-item {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 10px;
+    color: var(--fg);
+    text-decoration: none;
+    border-radius: 8px;
+}
+.menu-item:hover {
+    background: rgba(255, 255, 255, 0.06);
+}
+.menu-item[aria-current="page"] {
+    background: rgba(255, 255, 255, 0.08);
 }
 
 .site-main {
@@ -275,6 +312,9 @@ body {
     .brand {
         font-size: 20px;
     }
+    .menu-panel {
+        top: 64px;
+    }
     .carousel {
         gap: 14px;
     }
@@ -304,4 +344,51 @@ body {
         text-align: right;
         font-size: 15px;
     }
+}
+
+/* Videos page */
+.videos {
+    width: 100%;
+    max-width: 900px;
+    display: grid;
+    gap: 12px;
+}
+.videos-title {
+    margin: 0 0 4px;
+    font-size: 22px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+.video-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: grid;
+    gap: 10px;
+}
+.video-link {
+    display: flex;
+    align-items: flex-start;
+    gap: 12px;
+    color: var(--fg);
+    text-decoration: none;
+    padding: 12px;
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    border-radius: 10px;
+    background: #121314;
+}
+.video-link:hover {
+    background: #17181a;
+}
+.video-text {
+    display: grid;
+    gap: 6px;
+}
+.video-title {
+    font-weight: 600;
+}
+.video-desc {
+    color: var(--muted);
+    line-height: 1.5;
 }

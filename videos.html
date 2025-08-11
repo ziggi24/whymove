@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
-    <title>Why move to Berlin?</title>
+    <title>Videos — Why move to Berlin?</title>
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet" />
@@ -19,31 +19,22 @@
         </button>
         <div id="menu-panel" class="menu-panel" hidden>
           <a class="menu-item" href="./scenarios.html"><i class="fa-solid fa-list-ul" aria-hidden="true"></i><span>Scenarios</span></a>
-          <a class="menu-item" href="./videos.html"><i class="fa-brands fa-youtube" aria-hidden="true"></i><span>Videos</span></a>
+          <a class="menu-item" href="./videos.html" aria-current="page"><i class="fa-brands fa-youtube" aria-hidden="true"></i><span>Videos</span></a>
         </div>
       </nav>
     </header>
 
     <main class="site-main">
-      <section class="carousel" aria-label="Perspectives">
-        <div class="image-stage">
-          <img id="photo" class="photo" alt="Perspective" />
-        </div>
-        <div class="controls">
-          <button class="nav-btn prev" aria-label="Previous" title="Previous (←)">
-            <i class="fa-solid fa-chevron-left" aria-hidden="true"></i>
-          </button>
-          <button class="nav-btn next" aria-label="Next" title="Next (→)">
-            <i class="fa-solid fa-chevron-right" aria-hidden="true"></i>
-          </button>
-        </div>
+      <section class="videos" aria-label="Videos">
+        <h1 class="videos-title"><i class="fa-brands fa-youtube"></i> Videos</h1>
+        <ul class="video-list" id="video-list"></ul>
       </section>
     </main>
 
     <footer class="site-footer">I love you</footer>
 
     <script src="./nav.js" defer></script>
-    <script src="./script.js" defer></script>
+    <script src="./videos.js" defer></script>
   </body>
   </html>
 

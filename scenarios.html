@@ -14,8 +14,12 @@
     <header class="site-header">
       <nav class="top-nav" aria-label="Main">
         <a class="brand" href="./index.html">Why move to Berlin?</a>
-        <div class="nav-items">
-          <a class="nav-link active" href="./scenarios.html" aria-current="page">Scenarios</a>
+        <button class="menu-toggle" aria-label="Open menu" aria-controls="menu-panel" aria-expanded="false">
+          <i class="fa-solid fa-bars" aria-hidden="true"></i>
+        </button>
+        <div id="menu-panel" class="menu-panel" hidden>
+          <a class="menu-item" href="./scenarios.html" aria-current="page"><i class="fa-solid fa-list-ul" aria-hidden="true"></i><span>Scenarios</span></a>
+          <a class="menu-item" href="./videos.html"><i class="fa-brands fa-youtube" aria-hidden="true"></i><span>Videos</span></a>
         </div>
       </nav>
     </header>
@@ -44,6 +48,7 @@
 
     <footer class="site-footer">I love you</footer>
 
+    <script src="./nav.js" defer></script>
     <script src="./scenarios.js" defer></script>
   </body>
   </html>
